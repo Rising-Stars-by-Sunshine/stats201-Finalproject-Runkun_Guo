@@ -1,4 +1,4 @@
-# PS2
+# Final Project
 ## Project information
 - **Author**: Runkun Guo, Applied Mathematics, 2023 , Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
