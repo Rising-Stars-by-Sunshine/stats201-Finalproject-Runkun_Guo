@@ -2,4 +2,5 @@ remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Runkun
-description: The page of Runkun Guo's STATS201 Introduction to Machine Learning for Social Science Problem Set 2
+description: The page of Runkun Guo's STATS201 Introduction to Machine Learning for Social Science Final Project
+ 
