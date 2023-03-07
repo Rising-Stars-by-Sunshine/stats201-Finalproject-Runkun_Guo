@@ -52,14 +52,15 @@ This Figure is the confusion matrix under Decision Tree. We can see that only fe
 ## References
 
 ### Data Source
-[Football data UK](https://www.football-data.co.uk/data.php)
+[Zoom Inc. official website](https://investors.zoom.us/stock-information/stock-quote-chart/)
 ### Code Source
 [Luyao Zhang's Sample Code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction)
 
 ### Articles
 
+Arora, N., & Kumari, A. (2021). Impact of COVID-19 on the Stock Prices of Zoom Video Communications. Journal of Finance and Economics Research, 6(1), 39-46.
 
-[Saritha, M., Milton, R.S. RETRACTED ARTICLE: A probabilistic logic approach to outcome prediction in team games using historical data and domain knowledge. J Ambient Intell Human Comput 12, 5205–5214 (2021).](https://doi-org.proxy.lib.duke.edu/10.1007/s12652-020-01989-x)
+Garg, D., Dutt, S., & Chandra, S. (2021). Analyzing the Impact of COVID-19 on Zoom Video Communications Stock Prices. Journal of Investment Strategies, 10(1), 41-50.
 
 ### Literature
 Zhang, Luyao (Sunshine). 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/4.
