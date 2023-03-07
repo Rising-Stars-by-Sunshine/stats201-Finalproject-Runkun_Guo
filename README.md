@@ -25,10 +25,10 @@ The accuracy of the Random Forest Classifier is 51% while the accuracy of the Mu
 |Data Files                   | Data Content                                             | Data Type                                       | 
 |:---      |   :---:     |     ---:|
 |[ZoomData.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/ZoomData.csv)|Historical stock price data from the data website | Queried data |
-|[Regression_Train.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Regression_Train.csv)| Data after merging and selecting| Processed data|
-|[Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Regression_Test.csv)| Data after spliting for training and testing|Processed data |
-|[Classification_Train.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Classification_Train.csv)| Data after spliting for training and testing|Processed data |
-|[Classification_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Classification_Test.csv)| Data after spliting for training and testing|Processed data |
+|[Regression_Train.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Regression_Train.csv)| Training data for Regression| Processed data|
+|[Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Regression_Test.csv)| Test data for Regression|Processed data |
+|[Classification_Train.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Classification_Train.csv)| Training data for Classification|Processed data |
+|[Classification_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Classification_Test.csv)|Test data for Classification|Processed data |
 
 ## Data Dictionary
 |Variable Name    | Description     | Frequency      | Unit    | Range      | Type        |
