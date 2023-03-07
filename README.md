@@ -38,16 +38,26 @@
 - [Process Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/blob/main/Code/Process_Data_PrepareX%26Y_Variable_Runkun_Guo.ipynb)
 - [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/blob/main/Code/“Analyze_Data_Predicting_Runkun_Guo_ipynb”.ipynb)
 
+## Poster
+[Final Poster.pdf](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/files/10909121/Final.Poster.pdf)
+
+
 ## Spotlight
 <img width="1073" alt="截屏2023-02-26 下午9 30 23" src="https://user-images.githubusercontent.com/99957590/223415978-57312936-8380-4752-b3f2-200be9bce1ed.png">
 Assumption: The uncommercial factors besides the occurrence of COVID-19 have little influence on the stock price of Zoom.
-<img width="607" alt="Linear Regression" src="https://user-images.githubusercontent.com/99957590/219958742-ba824161-dab4-40f6-b729-cf0900894a7e.png">
-This figure is the prediction distribution under Linear Regression. It's obvious that the regression is not very ideal.
-<img width="542" alt="Random Forest" src="https://user-images.githubusercontent.com/99957590/219958863-f8c3ee77-e063-454a-9fcb-8e831eca2792.png">
-This figure is the prediction distribution under Random Forest. 
-<img width="503" alt="Decision Tree correlation" src="https://user-images.githubusercontent.com/99957590/219958872-ba56cf01-dd29-486f-bb52-43f2cb5ded80.png">
+
+<img width="549" alt="截屏2023-03-07 下午8 06 51" src="https://user-images.githubusercontent.com/99957590/223417902-36a6cab1-612d-4932-b29e-c8b39944de0b.png">
+
+<img width="973" alt="截屏2023-03-07 下午8 06 39" src="https://user-images.githubusercontent.com/99957590/223417934-825e8f47-533d-413b-9fab-eb0155954dde.png">
+
+<img width="561" alt="截屏2023-03-07 下午8 06 17" src="https://user-images.githubusercontent.com/99957590/223417948-d88e2138-d6c6-40d9-af99-af026d38a3ac.png">
+
+<img width="977" alt="截屏2023-03-07 下午8 06 05" src="https://user-images.githubusercontent.com/99957590/223417966-0f3b6d0e-f612-430b-94fe-7f0aaab43e13.png">
+
+
 This Figure is the confusion matrix under Decision Tree. We can see that only few classes have a relatively strong correlation. 
 <img width="731" alt="截屏2023-03-07 下午4 19 00" src="https://user-images.githubusercontent.com/99957590/223415786-2c748f09-926d-41fe-80ef-b438cba0c98f.png">
+
 
 ## References
 
