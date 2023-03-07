@@ -18,7 +18,8 @@ The accuracy of the Random Forest Classifier is 51% while the accuracy of the Mu
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/tree/main/data)
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/tree/main/Code)
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/tree/main/spotlight)
-
+- [More about the Author]
+- - [References]
 
 ## Data
 |Data Files                   | Data Content                                             | Data Type                                       | 
