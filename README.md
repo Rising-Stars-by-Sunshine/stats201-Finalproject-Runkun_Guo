@@ -21,12 +21,12 @@ The accuracy of the Random Forest Classifier is 51% while the accuracy of the Mu
 - [More about the Author]
 - - [References]
 
-## Data
+## Meta Data Information
 |Data Files                   | Data Content                                             | Data Type                                       | 
 |:---      |   :---:     |     ---:|
-|E0.csv&E1.csv|Historical data from the data website | Queried data |
-|[Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/blob/main/data/E0.csv)| Data after merging and selecting| Processed data|
-|[Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/tree/main/data/Data)| Data after spliting for training and testing|Processed data |
+|[ZoomData.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/ZoomData.csv)|Historical stock price data from the data website | Queried data |
+|[Regression_Train.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Classification_Train.csv)| Data after merging and selecting| Processed data|
+|[Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Classification_Test.csv)| Data after spliting for training and testing|Processed data |
 
 ## Data Dictionary
 |Variable Name    | Description     | Frequency      | Unit    | Range      | Type        |
