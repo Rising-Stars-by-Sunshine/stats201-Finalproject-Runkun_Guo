@@ -3,8 +3,7 @@
 - **Author**: Runkun Guo, Applied Mathematics, 2023 , Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Final Project for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: Thanks to Professor Luyao Zhang for giving Inspiration to my project and the demo code she provides. Thanks for the support from every classmate of mine.
 - **Project Summary**: 
   - Background: To predict the outcome of a certain soccer match may have a petential commercial value. We tried to find the correlation between the total number of shooting and the total number of goals in a match as a part of outcome of a match. Not many scholars are still doing research on this quite traditional gambling game theory. Thus, I want to make some improvements to this field.
   - Research Question: Does the number of shootings has correlation with the number of goals in a certain soccer match?
@@ -46,6 +45,7 @@ This figure is the prediction distribution under Linear Regression. It's obvious
 This figure is the prediction distribution under Random Forest. 
 <img width="503" alt="Decision Tree correlation" src="https://user-images.githubusercontent.com/99957590/219958872-ba56cf01-dd29-486f-bb52-43f2cb5ded80.png">
 This Figure is the confusion matrix under Decision Tree. We can see that only few classes have a relatively strong correlation. 
+<img width="731" alt="截屏2023-03-07 下午4 19 00" src="https://user-images.githubusercontent.com/99957590/223415786-2c748f09-926d-41fe-80ef-b438cba0c98f.png">
 
 ## References
 
@@ -55,6 +55,8 @@ This Figure is the confusion matrix under Decision Tree. We can see that only fe
 [Luyao Zhang's Sample Code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction)
 
 ### Articles
+
+
 [Saritha, M., Milton, R.S. RETRACTED ARTICLE: A probabilistic logic approach to outcome prediction in team games using historical data and domain knowledge. J Ambient Intell Human Comput 12, 5205–5214 (2021).](https://doi-org.proxy.lib.duke.edu/10.1007/s12652-020-01989-x)
 
 ### Literature
