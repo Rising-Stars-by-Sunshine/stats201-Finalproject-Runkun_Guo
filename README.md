@@ -1,10 +1,10 @@
 # Final Project
-## Project information
+## General information
 - **Author**: Runkun Guo, Applied Mathematics, 2023 , Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Final Project for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Thanks to Professor Luyao Zhang for giving Inspiration to my project and the demo code she provides. Thanks for the support from every classmate of mine.
-- **Project Summary**: 
+##Project Summary
   - Background: To predict the outcome of a certain soccer match may have a petential commercial value. We tried to find the correlation between the total number of shooting and the total number of goals in a match as a part of outcome of a match. Not many scholars are still doing research on this quite traditional gambling game theory. Thus, I want to make some improvements to this field.
   - Research Question: Does the eruption of COVID-19 have influence on the stock price of Zoom?
   - Data Source: I use the data of the stock price of Zoom queried from Zoom Inc. Official website.
