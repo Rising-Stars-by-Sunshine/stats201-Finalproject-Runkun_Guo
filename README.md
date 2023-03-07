@@ -4,14 +4,15 @@
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Final Project for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Thanks to Professor Luyao Zhang for giving Inspiration to my project and the demo code she provides. Thanks for the support from every classmate of mine.
-##Project Summary
-  - Background: To predict the outcome of a certain soccer match may have a petential commercial value. We tried to find the correlation between the total number of shooting and the total number of goals in a match as a part of outcome of a match. Not many scholars are still doing research on this quite traditional gambling game theory. Thus, I want to make some improvements to this field.
-  - Research Question: Does the eruption of COVID-19 have influence on the stock price of Zoom?
-  - Data Source: I use the data of the stock price of Zoom queried from Zoom Inc. Official website.
-  - Methods: I tried to use linear regression to predict the total numner of goals given a number of shooting and I also tried Ramdom forest Regression. Besides, I also consider the number of goals as a group of classes and I use Decision Tree Classifier to get the confusion matrix.
-  - Results: The Stock price had a remarkable rise in the Date number 215 which is 03/03/2020 in the real world and it is also the week after the carry out of the online working and studying policy. The highest increment ratio reached 13.38 percent. Besides, there is also a tremendous drop in the stock price on 03/01/2022 by which time, COVID-19 got little influence on people's daily life and everything got normal like before the pandemic.
+
+## Project Summary
+  - **Background**: To predict the outcome of a certain soccer match may have a petential commercial value. We tried to find the correlation between the total number of shooting and the total number of goals in a match as a part of outcome of a match. Not many scholars are still doing research on this quite traditional gambling game theory. Thus, I want to make some improvements to this field.
+  - **Research Question**: Does the eruption of COVID-19 have influence on the stock price of Zoom?
+  - **Data Source**: I use the data of the stock price of Zoom queried from Zoom Inc. Official website.
+  - **Methods**: I tried to use linear regression to predict the total numner of goals given a number of shooting and I also tried Ramdom forest Regression. Besides, I also consider the number of goals as a group of classes and I use Decision Tree Classifier to get the confusion matrix.
+  - **Results**: The Stock price had a remarkable rise in the Date number 215 which is 03/03/2020 in the real world and it is also the week after the carry out of the online working and studying policy. The highest increment ratio reached 13.38 percent. Besides, there is also a tremendous drop in the stock price on 03/01/2022 by which time, COVID-19 got little influence on people's daily life and everything got normal like before the pandemic.
 The accuracy of the Random Forest Classifier is 51% while the accuracy of the Multi-layer Classifier is 49%. The Random Forest Classifier seems to be a more appropriate Classifier for this question.
-  - Intellectual Merits: The pandemic created a highly volatile market environment, and sentiment among investors can play a significant role in driving stock prices. Besides the normal monitoring key indicators such as trading volume, short interest, and institutional ownership provide insights into how investors viewed Zoom during the pandemic, the policy and new rules brought by the pandemic also influenced the stock's price.
+  - **Intellectual Merits**: The pandemic created a highly volatile market environment, and sentiment among investors can play a significant role in driving stock prices. Besides the normal monitoring key indicators such as trading volume, short interest, and institutional ownership provide insights into how investors viewed Zoom during the pandemic, the policy and new rules brought by the pandemic also influenced the stock's price.
 
 ## Table of Contents
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/tree/main/data)
