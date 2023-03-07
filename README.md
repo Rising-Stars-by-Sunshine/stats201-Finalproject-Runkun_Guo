@@ -39,6 +39,8 @@
 - [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/blob/main/Code/“Analyze_Data_Predicting_Runkun_Guo_ipynb”.ipynb)
 
 ## Spotlight
+<img width="1073" alt="截屏2023-02-26 下午9 30 23" src="https://user-images.githubusercontent.com/99957590/223415978-57312936-8380-4752-b3f2-200be9bce1ed.png">
+Assumption: The uncommercial factors besides the occurrence of COVID-19 have little influence on the stock price of Zoom.
 <img width="607" alt="Linear Regression" src="https://user-images.githubusercontent.com/99957590/219958742-ba824161-dab4-40f6-b729-cf0900894a7e.png">
 This figure is the prediction distribution under Linear Regression. It's obvious that the regression is not very ideal.
 <img width="542" alt="Random Forest" src="https://user-images.githubusercontent.com/99957590/219958863-f8c3ee77-e063-454a-9fcb-8e831eca2792.png">
