@@ -55,6 +55,7 @@ The accuracy of the Random Forest Classifier is 51% while the accuracy of the Mu
 
 ## Spotlight
 <img width="1073" alt="截屏2023-02-26 下午9 30 23" src="https://user-images.githubusercontent.com/99957590/223415978-57312936-8380-4752-b3f2-200be9bce1ed.png">
+Figure NO.1. Causal Inference research design
 Assumption: The uncommercial factors besides the occurrence of COVID-19 have little influence on the stock price of Zoom.
 
 <img width="549" alt="截屏2023-03-07 下午8 06 51" src="https://user-images.githubusercontent.com/99957590/223417902-36a6cab1-612d-4932-b29e-c8b39944de0b.png">
