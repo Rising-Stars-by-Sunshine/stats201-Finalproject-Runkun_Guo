@@ -6,10 +6,10 @@
 - **Acknowledgments**: Thanks to Professor Luyao Zhang for giving Inspiration to my project and the demo code she provides. Thanks for the support from every classmate of mine.
 
 ## Project Summary
-  - **Background**: The COVID-19 pandemic is an extreme event that has brought uncertainty to the financial markets, led to a sudden fall in stock prices, and has given rise to financial volatility (Mahata et al., 2021). Many companies experienced fluctuations in their stock prices during the pandemic. One such company is Zoom Inc., a video communication software provider that saw a surge in demand as a result of online working and studying policy during the pandemic. This project will examine the effect that the pandemic had on Zoom Inc.'s stock price from 04/18/2019 to 02/24/2023 and explore the various factors like official policies that may contribute to these changes. By analyzing the impact of the pandemic on Zoom Inc.'s stock price, we can gain insights into the ways in which the pandemic has affected the business world and the stock market as a whole.
+  - **Background & Motivation**: The COVID-19 pandemic is an extreme event that has brought uncertainty to the financial markets, led to a sudden fall in stock prices, and has given rise to financial volatility (Mahata et al., 2021). Many companies experienced fluctuations in their stock prices during the pandemic. One such company is Zoom Inc., a video communication software provider that saw a surge in demand as a result of online working and studying policy during the pandemic. This project will examine the effect that the pandemic had on Zoom Inc.'s stock price from 04/18/2019 to 02/24/2023 and explore the various factors like official policies that may contribute to these changes. By analyzing the impact of the pandemic on Zoom Inc.'s stock price, we can gain insights into the ways in which the pandemic has affected the business world and the stock market as a whole.
   - **Research Question**: Does the eruption of COVID-19 have influence on the stock price of Zoom?
-  - **Data Source**: I use the data of the stock price of Zoom queried from Zoom Inc. Official website.
-  - **Methods**: I tried to use linear regression to predict the total numner of goals given a number of shooting and I also tried Ramdom forest Regression. Besides, I also consider the number of goals as a group of classes and I use Decision Tree Classifier to get the confusion matrix.
+  - **Data Source**: The data of the stock price of Zoom is directly queried from Zoom Inc. Official website. The data is from 04/18/2019 to 02/24/2023.
+  - **Methods**: The researcher applies a grest number of machine learning algorithms to both prediction and casual inference part. The linear regression and random forest regression are applied to predict the future trend of changing of the stock price. Random forest classifier is also applied to find out if the trend of changing is correlated with the past data. For the casual inference part, a figure with a prediction is drew with Visual Workspace 2023, proposing the hypotheses about the occruance of the pandemic had positive influence on the stock price. Then, with Scikit-learn Regression tool, a graph is provided to visualize the influence of the pandemic on the stock price.
   - **Results**: The Stock price had a remarkable rise in the Date number 215 which is 03/03/2020 in the real world and it is also the week after the carry out of the online working and studying policy. The highest increment ratio reached 13.38 percent. Besides, there is also a tremendous drop in the stock price on 03/01/2022 by which time, COVID-19 got little influence on people's daily life and everything got normal like before the pandemic.
 The accuracy of the Random Forest Classifier is 51% while the accuracy of the Multi-layer Classifier is 49%. The Random Forest Classifier seems to be a more appropriate Classifier for this question.
   - **Intellectual Merits**: The pandemic created a highly volatile market environment, and sentiment among investors can play a significant role in driving stock prices. Besides the normal monitoring key indicators such as trading volume, short interest, and institutional ownership provide insights into how investors viewed Zoom during the pandemic, the policy and new rules brought by the pandemic also influenced the stock's price.
@@ -51,11 +51,11 @@ The accuracy of the Random Forest Classifier is 51% while the accuracy of the Mu
 
 ## Poster
 [Final Poster.pdf](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/files/10909121/Final.Poster.pdf)
-
+Figure NO.1. An illustrated poster in Figure No.1. briefly describes the research project. Contents include: Abstract, Background, Methodology, Result, Conclusion, References, and Acknowledgement.
 
 ## Spotlight
 <img width="1073" alt="截屏2023-02-26 下午9 30 23" src="https://user-images.githubusercontent.com/99957590/223415978-57312936-8380-4752-b3f2-200be9bce1ed.png">
-Figure NO.1. Causal Inference research design
+Figure NO.2. Causal Inference research design
 Assumption: The uncommercial factors besides the occurrence of COVID-19 have little influence on the stock price of Zoom.
 
 <img width="549" alt="截屏2023-03-07 下午8 06 51" src="https://user-images.githubusercontent.com/99957590/223417902-36a6cab1-612d-4932-b29e-c8b39944de0b.png">
