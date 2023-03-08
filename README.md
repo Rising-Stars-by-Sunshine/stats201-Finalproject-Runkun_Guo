@@ -59,6 +59,12 @@ Figure NO.1. An illustrated poster in Figure No.1. briefly describes the researc
 Figure NO.2. Causal Inference research design
 Assumption: The uncommercial factors besides the occurrence of COVID-19 have little influence on the stock price of Zoom.
 
+![Unknown](https://user-images.githubusercontent.com/99957590/223867265-fa121948-394b-43f6-873c-0d83104612f9.png)
+
+![Unknown-2](https://user-images.githubusercontent.com/99957590/223867321-044e8fba-7930-4e0c-8df6-16c55ca07197.png)
+
+
+
 <img width="549" alt="截屏2023-03-07 下午8 06 51" src="https://user-images.githubusercontent.com/99957590/223417902-36a6cab1-612d-4932-b29e-c8b39944de0b.png">
 
 <img width="973" alt="截屏2023-03-07 下午8 06 39" src="https://user-images.githubusercontent.com/99957590/223417934-825e8f47-533d-413b-9fab-eb0155954dde.png">
