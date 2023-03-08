@@ -29,6 +29,8 @@ The accuracy of the Random Forest Classifier is 51% while the accuracy of the Mu
 |[Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Regression_Test.csv)| Test data for Regression|Processed data |
 |[Classification_Train.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Classification_Train.csv)| Training data for Classification|Processed data |
 |[Classification_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Classification_Test.csv)|Test data for Classification|Processed data |
+|[final.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/final.csv)| Related journals' title and abstract | Queried data|
+
 
 ## Data Dictionary
 |File Name |Variable Name    | Description     | Frequency      | Unit    | Range      | Type        |
@@ -43,6 +45,8 @@ The accuracy of the Random Forest Classifier is 51% while the accuracy of the Mu
 |             |ROI_past_ma10 | The trend of changing in the past 10 days | Daily | None | 0-628 |  Float    |
 |Classification_Test.csv  |  Positive | The trend of changing (label) | None | None   | None  | 1/0 |
 |             |ROI_past_ma10 | The trend of changing in the past 10 days | Daily | None | 628-942 |  Float |
+|final.csv  |  Title| Titles of 7 related journals | None | None   | None  | str |
+|             |Abstract| Abstracts of 7 related journals| None | None | 628-942 |  str |
 
 ## Code
 - [Query Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/blob/main/Code/Query_Data_Runkun_Guo.ipynb)
