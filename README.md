@@ -6,7 +6,7 @@
 - **Acknowledgments**: Thanks to Professor Luyao Zhang for giving Inspiration to my project and the demo code she provides. Thanks for the support from every classmate of mine.
 
 ## Project Summary
-  - **Background**: To predict the outcome of a certain soccer match may have a petential commercial value. We tried to find the correlation between the total number of shooting and the total number of goals in a match as a part of outcome of a match. Not many scholars are still doing research on this quite traditional gambling game theory. Thus, I want to make some improvements to this field.
+  - **Background**: The COVID-19 pandemic is an extreme event that has brought uncertainty to the financial markets, led to a sudden fall in stock prices, and has given rise to financial volatility (Mahata et al., 2021). Many companies experienced fluctuations in their stock prices during the pandemic. One such company is Zoom Inc., a video communication software provider that saw a surge in demand as a result of online working and studying policy during the pandemic. This project will examine the effect that the pandemic had on Zoom Inc.'s stock price from 04/18/2019 to 02/24/2023 and explore the various factors like official policies that may contribute to these changes. By analyzing the impact of the pandemic on Zoom Inc.'s stock price, we can gain insights into the ways in which the pandemic has affected the business world and the stock market as a whole.
   - **Research Question**: Does the eruption of COVID-19 have influence on the stock price of Zoom?
   - **Data Source**: I use the data of the stock price of Zoom queried from Zoom Inc. Official website.
   - **Methods**: I tried to use linear regression to predict the total numner of goals given a number of shooting and I also tried Ramdom forest Regression. Besides, I also consider the number of goals as a group of classes and I use Decision Tree Classifier to get the confusion matrix.
@@ -31,12 +31,18 @@ The accuracy of the Random Forest Classifier is 51% while the accuracy of the Mu
 |[Classification_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Classification_Test.csv)|Test data for Classification|Processed data |
 
 ## Data Dictionary
-|Variable Name    | Description     | Frequency      | Unit    | Range      | Type        |
-|:---      |   :---:     |     ---:|    ---:|    ---:|    ---:|
-|MatchTime | When the match occurs | Daily | Hour | Two match seasons |  Time     |
-|Total Shooting| The total number of shootings | Discrete   | Number   | 9-53   | Integer   |
-|Total Score   | The total number of goals     | Discrete   | Number   | 0-9    | Integer   |
-
+|File Name |Variable Name    | Description     | Frequency      | Unit    | Range      | Type        |
+|:---     |   :---:      |   :---:     |     ---:|    ---:|    ---:|    ---:|
+|ZoomData.csv |Date | Trading day in a year | Daily | Day | 4/18/2019 to 2/24/2023|  Time     |
+|             |Close Price| Close Price of the stock every day| Daily | USD$  |  4/18/2019 to 2/24/2023| Float |
+|Regression_Train.csv|  ROI | The trend and degree of changing   | None | None   | None  | Float |
+|             |Unnamed Date | Trading day in a year with number | Daily | th | 0-628 |  Integer    |
+|Regression_Test.csv  |  ROI | The trend and degree of changing   | None | None   | None  | Float |
+|             |Unnamed Date | Trading day in a year with number | Daily | th | 628-942 |  Integer    |
+|Classification_Train.csv  |  Positive | The trend of changing (label) | None | None   | None  | 1/0 |
+|             |ROI_past_ma10 | The trend of changing in the past 10 days | Daily | None | 0-628 |  Float    |
+|Classification_Test.csv  |  Positive | The trend of changing (label) | None | None   | None  | 1/0 |
+|             |ROI_past_ma10 | The trend of changing in the past 10 days | Daily | None | 628-942 |  Float |
 
 ## Code
 - [Query Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/blob/main/Code/Query_Data_Runkun_Guo.ipynb)
