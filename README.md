@@ -51,6 +51,7 @@ The accuracy of the Random Forest Classifier is 51% while the accuracy of the Mu
 
 ## Poster
 [Final Poster.pdf](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/files/10909121/Final.Poster.pdf)
+
 Figure NO.1. An illustrated poster in Figure No.1. briefly describes the research project. Contents include: Abstract, Background, Methodology, Result, Conclusion, References, and Acknowledgement.
 
 ## Spotlight
