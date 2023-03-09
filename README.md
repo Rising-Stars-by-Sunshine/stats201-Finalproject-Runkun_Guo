@@ -110,6 +110,7 @@ Figure NO.9. shows the close price of Zoom stock from 04/18/2019 to 02/24/2023, 
 ## More about the Author
 
 Runkun Guo, a senior majoring in Applied Mathematics and Computational Science at Duke Kunshan University. 
+
 Field of research: Image compression based on SVD & Automatic detection of cancer tissues images based on CNN
 
 ![IMG_7010](https://user-images.githubusercontent.com/99957590/224016014-468de9e5-681d-48f4-b6c3-d14fd521d26a.JPG)
@@ -122,7 +123,9 @@ Field of research: Image compression based on SVD & Automatic detection of cance
 [Zoom Inc. official website](https://investors.zoom.us/stock-information/stock-quote-chart/)
 ### Code Source
 Prediction:[Luyao Zhang's Sample Code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction)
+
 Causal Event:[Python numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
+
 Explaination: [Luyao Zhang's Sample Code](https://github.com/sunshineluyao/design-principle-blockchain)
 
 
@@ -130,9 +133,18 @@ Explaination: [Luyao Zhang's Sample Code](https://github.com/sunshineluyao/desig
 
 Arora, N., & Kumari, A. (2021). Impact of COVID-19 on the Stock Prices of Zoom Video Communications. Journal of Finance and Economics Research, 6(1), 39-46.
 
+Aristovnik, Aleksander, Damijana Keržič, Dejan Ravšelj, Nina Tomaževič, and Lan Umek. 2020. "Impacts of the COVID-19 Pandemic on Life of Higher Education Students: A Global Perspective" Sustainability 12, no. 20: 8438. https://doi.org/10.3390/su12208438
+
 Garg, D., Dutt, S., & Chandra, S. (2021). Analyzing the Impact of COVID-19 on Zoom Video Communications Stock Prices. Journal of Investment Strategies, 10(1), 41-50.
 
+Kordestani, A., Pashkevich, N., Oghazi, P., Sahamkhadam, M., Sohrabpour, V. (2022) Effects of the COVID-19 pandemic on stock price performance of blockchain-based companies
+Ekonomska Istrazivanja, 35(1): 3206-3224 https://doi.org/10.1080/1331677X.2021.1986676
+
 Mahata, A., Rai, A., Nurujjaman, M., Prakash, O., & Prasad Bal, D. (2021). Characteristics of 2020 stock market crash: The COVID-19-induced extreme event. Chaos: An Interdisciplinary Journal of Nonlinear Science, 31(5), 053115. https://doi.org/10.1063/5. 0046704 
+
+Noramalina A., Nur H., Intan A. (2022) Impact of COVID-19 Pandemic in Malaysia: A Critical Survey.  SOCIAL SCIENCES & HUMANITIES , 30 (4).  http://www.pertanika.upm.edu.my/
+
+
 
 ### Literature
 Zhang, Luyao (Sunshine). 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/4.
