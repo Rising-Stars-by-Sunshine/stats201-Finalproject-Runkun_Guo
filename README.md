@@ -132,6 +132,14 @@ Figure NO.9. shows the close price of Zoom stock from 04/18/2019 to 02/24/2023, 
 
 Supported by [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
 
+
+### AI Ethics Issues 
+There is the potential for AI systems to be used for malicious purposes during a pandemic. For example, an AI system could be used to manipulate stock prices by spreading false information about a company's ability to handle the pandemic. This could lead to significant financial losses for investors and could damage the reputation of the targeted company.
+
+### Future Work
+This project only reveal the superficial correlation between the Pandemic and the stock price. In the future, the influence of actions and policies made by companies and government should be quantized and analyzed with more advanced analytical tools. In that way, the potential effect of these measurements maybe divinable so that the global financial market keeps in a stable and autonomous situation for developing.
+
+
 ## More about the Author
 * Self Introduction
 
