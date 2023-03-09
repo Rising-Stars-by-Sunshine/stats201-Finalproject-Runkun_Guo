@@ -21,8 +21,8 @@
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/tree/main/data)
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/tree/main/Code)
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/tree/main/spotlight)
-- [More about the Author](https://user-images.githubusercontent.com/99957590/224016014-468de9e5-681d-48f4-b6c3-d14fd521d26a.JPG)
-- [References](https://edition.cnn.com/2021/03/09/success/remote-work-covid-pandemic-one-year-later/index.html)
+- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo#More-about-the-Author)
+- [References](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo#References)
 
 ## Meta Data Information
 |Data Files                   | Data Content                                             | Data Type                                       | 
@@ -33,6 +33,9 @@
 |[Classification_Train.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Classification_Train.csv)| Training data for Classification|Processed data |
 |[Classification_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/Classification_Test.csv)|Test data for Classification|Processed data |
 |[final.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/data/Data/final.csv)| Related journals' title and abstract | Queried data|
+
+### Data Source
+[Zoom Inc. official website](https://investors.zoom.us/stock-information/stock-quote-chart/)
 
 
 ## Data Dictionary
