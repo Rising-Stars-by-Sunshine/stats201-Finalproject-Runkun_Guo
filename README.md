@@ -56,7 +56,20 @@
 - [Process Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/Code/“Process_Code__ipynb_Runkun_Guo”.ipynb)
 - [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/Code/“Analyze_Data_ipynb_Runkun_Guo”.ipynb)
 - [Casual Inference](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/Code/Final_Causual.ipynb)
--[Word Cloud](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/Code/“NLP_Blockchain.ipynb)
+- [Word Cloud](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/Code/“NLP_Blockchain.ipynb)
+
+## Table of Code
+
+<div class="table-wrapper" markdown="block">
+ 
+| Code files| Description | Type| Task|
+| :---         |     :---     | :--- | :---|
+| [“NLP_Blockchain.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/Code/“NLP_Blockchain.ipynb) |Code using the NLP method to generate word cloud and bigram | .ipynb | Explanation| 
+| [“Process_Code__ipynb_Runkun_Guo”.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/Code/“Process_Code__ipynb_Runkun_Guo”.ipynb) | Code processing the X and Y dataset from Ethereum_value.csv for regression  | .ipynb | Prediction| 
+| [“Analyze_Data_ipynb_Runkun_Guo”.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/Code/“Analyze_Data_ipynb_Runkun_Guo”.ipynb) | Code applying machine learning method for open price regression| .ipynb | Prediction | 
+| [Final_Causual.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/blob/main/Code/Final_Causual.ipynb) | Code applying the regression discontinuity method | .ipynb | Causal Inference| 
+ 
+ </div>
 
 ## Poster
 [Final Poster.pdf](https://github.com/Rising-Stars-by-Sunshine/stats201-Finalproject-Runkun_Guo/files/10909121/Final.Poster.pdf)
