@@ -1,4 +1,4 @@
-# Final Project
+# The Effect of the Pandemic to the Stock Price of Zoom
 ## General information
 - **Author**: Runkun Guo, Applied Mathematics, 2023 , Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
