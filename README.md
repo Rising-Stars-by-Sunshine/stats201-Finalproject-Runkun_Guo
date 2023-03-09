@@ -84,26 +84,44 @@ Figure NO.5. Linear Regression prediction histogram of Stock Price
 Figure NO.6. Linear Regression prediction line graph of changing trend
 
 Figure NO.5. illustrates the prediction of the stock price made by linear regression, where the blue part represents the real data and the green part represents the data predicted by linear regression. It can be concluded from the graph that the prediction result is not very ideal with an accuracy of 0.05%, and it may due to the choice of the regression model and the pre-processing of data. The centralized of prediction result may due to the centralized norm of input and in the real world, stock price may not change in the linear way.
-Figure NO.6. shows the prediction of the changing trend made by linear regressin. If the value of y-axis is positive then it implies the stock price rises， vice versa.  The x-axis represents the day of stock trading counted in numbers. The linear prediction line does not fit the actual curve of changing very well. This result may explain the low accuracy of prediction of this model that linear regression is not the best model for the prediction of stock changing trend. 
+
+Figure NO.6. shows the prediction of the changing trend made by linear regression. If the value of y-axis is positive then it implies the stock price rises， vice versa.  The x-axis represents the day of stock trading counted in numbers. The linear prediction line does not fit the actual curve of changing very well. This result may explain the low accuracy of prediction of this model that linear regression is not the best model for the prediction of stock changing trend. 
 
 <img width="561" alt="截屏2023-03-07 下午8 06 17" src="https://user-images.githubusercontent.com/99957590/223417948-d88e2138-d6c6-40d9-af99-af026d38a3ac.png">
 Figure NO.7. Random Forest prediction line graph of changing trend
 
+Figure NO.7. illustrates the prediction of the stock price made by Random Forest regression, where the blue part represents the real data and the green part represents the data predicted by linear regression. From the figure, the green bars matching the blue bars more than the linear regression with an accuracy of 49.8%. Compared to the linear regression, it could be concluded that random forest is more fitting of prediction than linear regression.
 
 <img width="977" alt="截屏2023-03-07 下午8 06 05" src="https://user-images.githubusercontent.com/99957590/223417966-0f3b6d0e-f612-430b-94fe-7f0aaab43e13.png">
 Figure NO.8. Random Forest prediction line graph of changing trend
 
+Figure NO.8. shows the prediction of the changing trend made by Random Forest regression. If the value of y-axis is positive then it implies the stock price rises， vice versa.  The x-axis represents the day of stock trading counted in numbers. This time the prediction curve fits the test curve quite closely. Moreover, the yellow vertical line represents the highest rate of rising of the stock price and it happened on March 3rd, 2020. The black vertical line represents the highest rate of decreasing of the stock price and it happened on March 1st, 2022. This two dates will be used for the following causal inference part, and reasons will be given there.
 
 
 <img width="731" alt="截屏2023-03-07 下午4 19 00" src="https://user-images.githubusercontent.com/99957590/223415786-2c748f09-926d-41fe-80ef-b438cba0c98f.png">
-Figure NO.9.
+Figure NO.9. Causal Inference Result 
+
+Figure NO.9. shows the close price of Zoom stock from 04/18/2019 to 02/24/2023, where the red and blue vertical lines represent the date when the stock price had the highest rate of rising or decreasing founded in the last part. The left orange line represents the original fitted line of the stock close price before the cut-off event happened on March 3rd, 2020. According to CNN News, "In March 2020, companies across the US abruptly shuttered their offices and instructed employees to work from home indefinitely as a result of the pandemic." (CNN, 2021) The remote working and studying policy in March 2020 was the cut-off event for the discontinuity of the stock price. Since then, the stock price kept rising until the beginning of 2021. The online-working a & studying policy due to the pandemic indeed brought increasement to the Zoom Stock price. The Hypothesis was tested. Furthermore, the decreasing green line is the fitted line after March 1st, 2022, when the stock price fell to the same level as it was before the cut-off event. The blue vertical line is also a causal event as the pandemic progressed and vaccine rollouts began. Everything went back to normal and the post-pandemic period came. The maroon fitted line between these two cut-off events is almost horizontal due to the stock price fellt o the same level as it was before March 2020. Overall, the pandemic had both positive and negative effects on Zoom's stock price, highlighting the complex nature of the stock market during a crisis. 
+
+
+## More about the Author
+
+Runkun Guo, a senior majoring in Applied Mathematics and Computational Science at Duke Kunshan University. 
+Field of research: Image compression based on SVD & Automatic detection of cancer tissues images based on CNN
+
+![IMG_7010](https://user-images.githubusercontent.com/99957590/224016014-468de9e5-681d-48f4-b6c3-d14fd521d26a.JPG)
+
+
 
 ## References
 
 ### Data Source
 [Zoom Inc. official website](https://investors.zoom.us/stock-information/stock-quote-chart/)
 ### Code Source
-[Luyao Zhang's Sample Code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction)
+Prediction:[Luyao Zhang's Sample Code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction)
+Causal Event:[Python numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
+Explaination: [Luyao Zhang's Sample Code](https://github.com/sunshineluyao/design-principle-blockchain)
+
 
 ### Articles
 
