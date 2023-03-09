@@ -108,6 +108,7 @@ Figure NO.9. shows the close price of Zoom stock from 04/18/2019 to 02/24/2023, 
 
 
 ## More about the Author
+* Self Introduction
 
 Runkun Guo, a senior majoring in Applied Mathematics and Computational Science at Duke Kunshan University. 
 
@@ -115,12 +116,19 @@ Field of research: Image compression based on SVD & Automatic detection of cance
 
 ![IMG_7010](https://user-images.githubusercontent.com/99957590/224016014-468de9e5-681d-48f4-b6c3-d14fd521d26a.JPG)
 
+* Final Reflections:
 
+Intellectual growth: This course typically covers the fundamental principles and techniques of statistics as applied to social science research. Over time, this course has evolved to reflect changes in both statistical methods and the research questions being studied in the social sciences. I have learnt the methods to deal with real-world social science issues with my statistics background.
+
+Professional growth: This course can provide me with a foundation in statistical analysis and data interpretation, which can be useful in a variety of professional settings including: Data Analysis, Policy Development and Consulting. From my final project, I've learnt that statistics can be important in policy development, particularly in fields such as public health, social work, and criminal justice. Individuals with a background in statistics can help develop evidence-based policies and analyze the impact of those policies.
+
+Living a purposeful life: After having this course, I could focus more on machine learning methods and causal inference that may be applied to a certain phenomena. I will also start to learn more analytical tools for solving social science issues that I'm interested in.
 
 ## References
 
 ### Data Source
 [Zoom Inc. official website](https://investors.zoom.us/stock-information/stock-quote-chart/)
+
 ### Code Source
 Prediction:[Luyao Zhang's Sample Code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction)
 
