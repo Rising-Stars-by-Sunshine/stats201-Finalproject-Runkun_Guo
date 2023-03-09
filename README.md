@@ -10,16 +10,19 @@
   - **Research Question**: Does the eruption of COVID-19 have influence on the stock price of Zoom?
   - **Data Source**: The data of the stock price of Zoom is directly queried from Zoom Inc. Official website. The data is from 04/18/2019 to 02/24/2023.
   - **Methods**: The researcher applies a grest number of machine learning algorithms to both prediction and casual inference part. The linear regression and random forest regression are applied to predict the future trend of changing of the stock price. Random forest classifier is also applied to find out if the trend of changing is correlated with the past data. For the casual inference part, a figure with a prediction is drew with Visual Workspace 2023, proposing the hypotheses about the occruance of the pandemic had positive influence on the stock price. Then, with Scikit-learn Regression tool, a graph is provided to visualize the influence of the pandemic on the stock price.
-  - **Results**: The Stock price had a remarkable rise in the Date number 215 which is 03/03/2020 in the real world and it is also the week after the carry out of the online working and studying policy. The highest increment ratio reached 13.38 percent. Besides, there is also a tremendous drop in the stock price on 03/01/2022 by which time, COVID-19 got little influence on people's daily life and everything got normal like before the pandemic.
-The accuracy of the Random Forest Classifier is 51% while the accuracy of the Multi-layer Classifier is 49%. The Random Forest Classifier seems to be a more appropriate Classifier for this question.
-  - **Intellectual Merits**: The pandemic created a highly volatile market environment, and sentiment among investors can play a significant role in driving stock prices. Besides the normal monitoring key indicators such as trading volume, short interest, and institutional ownership provide insights into how investors viewed Zoom during the pandemic, the policy and new rules brought by the pandemic also influenced the stock's price.
+  - **Results**: The Zoom's stock price increased substantially during the early stages of the pandemic due to the sudden surge in remote work and online communication. However, Zoom's stock price declined to a pre-pandemic level as the pandemic progressed and vaccine rollouts began.
+  - **Intellectual Merits and Practical impacts**: 
+  - ***Investment decisions*** This project provides investors and shareholders with a warning for future pandemics and such events.
+  - ***Public health policy*** The research could have implications for public health policy by highlighting the economic impacts of pandemics. The findings could be used to inform policies aimed at mitigating the economic impact of pandemics, such as stimulus packages and financial support for affected companies.
+  - ***Business strategy*** Zoom Inc. and other companies could use the research findings to develop effective strategies to respond to the challenges posed by pandemics. The research would provide insights into the factors that influence investor behavior during pandemics and how companies can respond to these factors.
+  - ***Advancing knowledge*** This research would add to the existing body of knowledge about the impact of pandemics on the stock prices of companies. It would provide insights into the dynamics of the stock market during pandemics and how specific companies, such as Zoom Inc., are affected.
 
 ## Table of Contents
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/tree/main/data)
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/tree/main/Code)
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Runkun_Guo/tree/main/spotlight)
-- [More about the Author]
-- - [References]
+- [More about the Author](https://user-images.githubusercontent.com/99957590/224016014-468de9e5-681d-48f4-b6c3-d14fd521d26a.JPG)
+- [References](https://edition.cnn.com/2021/03/09/success/remote-work-covid-pandemic-one-year-later/index.html)
 
 ## Meta Data Information
 |Data Files                   | Data Content                                             | Data Type                                       | 
@@ -129,6 +132,9 @@ Arora, N., & Kumari, A. (2021). Impact of COVID-19 on the Stock Prices of Zoom V
 
 Garg, D., Dutt, S., & Chandra, S. (2021). Analyzing the Impact of COVID-19 on Zoom Video Communications Stock Prices. Journal of Investment Strategies, 10(1), 41-50.
 
+Mahata, A., Rai, A., Nurujjaman, M., Prakash, O., & Prasad Bal, D. (2021). Characteristics of 2020 stock market crash: The COVID-19-induced extreme event. Chaos: An Interdisciplinary Journal of Nonlinear Science, 31(5), 053115. https://doi.org/10.1063/5. 0046704 
+
 ### Literature
 Zhang, Luyao (Sunshine). 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/4.
 
+[CNN News. 2021.](https://edition.cnn.com/2021/03/09/success/remote-work-covid-pandemic-one-year-later/index.html)
